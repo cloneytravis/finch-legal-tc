@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1758842683517,
+      "tag": "0000_petite_archangel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1758842877158,
+      "tag": "0001_material_richard_fisk",
+      "breakpoints": true
+    }
+  ]
+}
