@@ -7,8 +7,6 @@ This is a [Next.js](https://nextjs.org) + [TypeScript](https://www.typescriptlan
 - [Zod](https://zod.dev/) for input/output validation  
 - [Vitest](https://vitest.dev/) for testing  
 
-It’s set up so you can focus entirely on implementing business logic.
-
 ---
 
 ## Prerequisites
